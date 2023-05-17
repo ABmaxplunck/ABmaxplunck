@@ -2,9 +2,9 @@
 #### ⭕Machine Learning Enthusiast ⭕ Software Developer⭕ Full-Stack Development⭕ Software Quality Assurance
 ![⭕Machine Learning Enthusiast ⭕ Software Developer⭕ Full-Stack Development⭕ Software Quality Assurance](https://media.licdn.com/dms/image/C4D16AQHLHYb9DsYMoQ/profile-displaybackgroundimage-shrink_350_1400/0/1657293471450?e=1689811200&v=beta&t=0dI7W6f-xQoD5levH90MQTD-5JqK0FqJbeRER9wPN-c)
 
-I have completed my BSc in Computer Science and Engineering with prestigious Distinction or Honor from North South University (NSU).
-.......
-I excel in Software Development, Artificial Intelligence, Machine Learning, Full-Stack development, Software Quality Assurance with expertise in multiple programming languages, frameworks, and technologies. Whether working independently or as part of a team, I have a keen eye for detail and a commitment to delivering error-free code that meets project specifications and timelines. I am also experienced in agile methodologies and thrive in fast-paced, collaborative environments.
+🎓I have completed my BSc in Computer Science and Engineering with prestigious Distinction or Honor from North South University (NSU).
+
+💻💻I excel in Software Development, Artificial Intelligence, Machine Learning, Full-Stack development, Software Quality Assurance with expertise in multiple programming languages, frameworks, and technologies. Whether working independently or as part of a team, I have a keen eye for detail and a commitment to delivering error-free code that meets project specifications and timelines. I am also experienced in agile methodologies and thrive in fast-paced, collaborative environments 💻💻
 
 Skills: C/ C++/ JAVA/ Python/ HTML / CSS/ Bootstrap
 
