@@ -1,8 +1,6 @@
-(https://media.licdn.com/dms/image/C4D16AQHLHYb9DsYMoQ/profile-displaybackgroundimage-shrink_350_1400/0/1657293471450?e=1689811200&v=beta&t=0dI7W6f-xQoD5levH90MQTD-5JqK0FqJbeRER9wPN-c)
-
 ### Hi there 👋, This is Asiful Islam
 #### ⭕Machine Learning Enthusiast ⭕ Software Developer⭕ Full-Stack Development⭕ Software Quality Assurance
-![⭕Machine Learning Enthusiast ⭕ Software Developer⭕ Full-Stack Development⭕ Software Quality Assurance]
+![⭕Machine Learning Enthusiast ⭕ Software Developer⭕ Full-Stack Development⭕ Software Quality Assurance](https://media.licdn.com/dms/image/C4D16AQHLHYb9DsYMoQ/profile-displaybackgroundimage-shrink_350_1400/0/1657293471450?e=1689811200&v=beta&t=0dI7W6f-xQoD5levH90MQTD-5JqK0FqJbeRER9wPN-c)
 
 I have completed my BSc in Computer Science and Engineering with prestigious Distinction or Honor from North South University (NSU).
 .......
