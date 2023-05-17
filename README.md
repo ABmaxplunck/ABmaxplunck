@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Sheikh Asiful Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Asiful (アシフル)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
