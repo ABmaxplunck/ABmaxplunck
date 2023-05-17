@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ABmaxplunck/ABmaxplunck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sheikh Asiful Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
